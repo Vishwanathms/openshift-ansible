@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3.11
 """Interface to journalctl."""
 
 from time import time

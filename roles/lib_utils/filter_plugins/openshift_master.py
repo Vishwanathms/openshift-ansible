@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3.11
 # -*- coding: utf-8 -*-
 '''
 Custom filters for use in openshift-master

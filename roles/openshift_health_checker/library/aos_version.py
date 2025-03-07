@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3.11
 """
 Ansible module for yum-based systems determining if multiple releases
 of an OpenShift package are available, and if the release requested

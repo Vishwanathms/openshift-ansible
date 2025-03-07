@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3.11
 # -*- coding: utf-8 -*-
 
 # Copyright 2018 Red Hat, Inc. and/or its affiliates

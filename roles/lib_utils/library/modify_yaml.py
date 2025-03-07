@@ -1,4 +1,4 @@
-#!/usr/bin/python3.11
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 ''' modify_yaml ansible module '''
 

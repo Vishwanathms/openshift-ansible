@@ -1,4 +1,4 @@
-#!/usr/bin/python3.11
+#!/usr/bin/python3
 # pylint: disable=too-many-lines
 # -*- coding: utf-8 -*-
 # Reason: Disable pylint too-many-lines because we don't want to split up this file.

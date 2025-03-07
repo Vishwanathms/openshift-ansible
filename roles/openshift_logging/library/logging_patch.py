@@ -1,4 +1,4 @@
-#!/usr/bin/python3.11
+#!/usr/bin/python3
 
 """ Ansible module to help with creating context patch file with whitelisting for logging """
 

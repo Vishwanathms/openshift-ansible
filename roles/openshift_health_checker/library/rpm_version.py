@@ -1,4 +1,4 @@
-#!/usr/bin/python3.11
+#!/usr/bin/python3
 """
 Ansible module for rpm-based systems determining existing package version information in a host.
 """

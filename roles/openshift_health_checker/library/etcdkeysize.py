@@ -1,4 +1,4 @@
-#!/usr/bin/python3.11
+#!/usr/bin/python3
 """Ansible module that recursively determines if the size of a key in an etcd cluster exceeds a given limit."""
 
 from ansible.module_utils.basic import AnsibleModule

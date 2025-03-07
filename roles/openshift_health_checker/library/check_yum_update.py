@@ -1,4 +1,4 @@
-#!/usr/bin/python3.11
+#!/usr/bin/python3
 '''
 Ansible module to test whether a yum update or install will succeed,
 without actually performing it or running yum.

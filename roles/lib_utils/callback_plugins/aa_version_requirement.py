@@ -1,4 +1,4 @@
-#!/usr/bin/python3.11
+#!/usr/bin/python3
 
 """
 This callback plugin verifies the required minimum version of Ansible

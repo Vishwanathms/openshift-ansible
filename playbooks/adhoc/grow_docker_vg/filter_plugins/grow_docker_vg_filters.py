@@ -1,4 +1,4 @@
-#!/usr/bin/python3.11
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 '''
 Custom filters for use in openshift-ansible
